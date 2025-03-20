@@ -2,7 +2,7 @@
 ## Home_2D
 Δημιουργία ενός σπιτιού σε 2D διαστάσεις στην γλωσσά προγραμματισμού  C++  και εναλλαγή χρώματος του background.
 <div style="text-align:center;">
-    <img src="home_2D/src/12.png" alt="12" width="800">
+    <img src="home_2D/src/12.png" alt="0" width="800">
 </div>
 
 * Για Windows
@@ -28,7 +28,7 @@ g++ code.cpp imgui/*.cpp imgui/backends/imgui_impl_glfw.cpp imgui/backends/imgui
 ```
 
 ## Ergasia_1
-Η εκφωνηση της εργασιας ειναι εδω [εργασια_1.pdf]( )
+Η εκφωνηση της εργασιας ειναι εδω [εργασια_1.pdf]( https://github.com/HerGousis/Graphics_OpenGL/blob/main/ergasia1/%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CE%B1%201.pdf)
 
 <div style="text-align:center;">
     <img src="ergasia1/src/1.png" alt="1" width="800">
@@ -43,7 +43,7 @@ g++ code.cpp imgui/*.cpp imgui/backends/imgui_impl_glfw.cpp imgui/backends/imgui
 Κατεβαζεις το  Visual Studio 2022 φτιαχνεις ενα περιββαλον και βαζεις και τον φακελο ```Dependencies```
 
 ## Ergasia_2
-Η εκφωνηση της εργασιας ειναι εδω [εργασια_2.pdf]( )
+Η εκφωνηση της εργασιας ειναι εδω [εργασια_2.pdf]( https://github.com/HerGousis/Graphics_OpenGL/blob/main/ergasia2/Homework%20files.pdf)
 2. Παρακάτω υπάρχουν είκονες απο τα αποτελέσματα των ασκήσεων :
 
 <div style="text-align:center;">
@@ -144,7 +144,7 @@ g++ Ask4_58650.cpp imgui/*.cpp imgui/backends/imgui_impl_glfw.cpp imgui/backends
 ```
 
 ## Ergasia_3
-Η εκφωνηση της εργασιας ειναι εδω [εργασια_3.pdf]( )
+Η εκφωνηση της εργασιας ειναι εδω [εργασια_3.pdf]( https://github.com/HerGousis/Graphics_OpenGL/blob/main/ergasia3/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CE%B1%203.pdf)
 2. Σχετικά με την τυχαία θέση η εκφώνηση έλεγε από -15 έως 15 . Επειδή οι κύβοι έπεφταν στο κενό θεώρησα ότι είναι από -10 έως 10 όπως είναι και η διάσταση του δαπέδου. Για -15 έως 15 έχω βάλει σχόλιο την εντολή που χρειάζεται.
 
 3. Έχω βάλει επιπλέον σε λειτουργιά τα πλήκτρα WSAD για κίνηση για να δείτε τους κύβους από κοντά. Έχω βάλει και σε σχόλιο και μια θέση σταθερή .
